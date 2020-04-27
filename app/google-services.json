@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135818349402",
+    "firebase_url": "https://islamic-wallpapers-ec272.firebaseio.com",
+    "project_id": "islamic-wallpapers-ec272",
+    "storage_bucket": "islamic-wallpapers-ec272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135818349402:android:139057e284f6198acec163",
+        "android_client_info": {
+          "package_name": "com.muiezarif.islamicwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135818349402-d7mdjmflbgadrm7s5ci2767mg7l6ctd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muiezarif.islamicwallpapers",
+            "certificate_hash": "9729cf5802259e7fc00a31d7991b318a7f29b6e0"
+          }
+        },
+        {
+          "client_id": "135818349402-0li2sleah6fiq7mr531s7o4f0vk1ogjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9O1iHlM5dZQYRDuj9xto60OtaWbDHyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135818349402-0li2sleah6fiq7mr531s7o4f0vk1ogjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
